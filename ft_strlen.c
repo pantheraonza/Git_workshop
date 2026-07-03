@@ -1,55 +1,8 @@
-asddas
-d
-as
-d
-as
-dasd
-as
-asddas
-d
-as
-d   
-as
-dasd
-as
-strlen buenoooooooooo
-d
-as
-d
 
-
-
-
-
-as
-dasd
-as
-asddas
-d
-as
-
-
-
-
-int main(int argc, char const *argv[])
+int main(void)
 {
-    /* code */
+    int i = 0;
+
+    while ()
     return 0;
 }
-
-d
-as
-
-
-
-
-dasd
-as
-asddas
-d
-as
-d
-as
-dasd
-as
-asdasd
