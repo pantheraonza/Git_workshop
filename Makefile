@@ -1,14 +1,3 @@
-Makefile no tan bueno 
-y esto no funciona
-
-
-all:
-
-
-name:
-
-
-mejor makefile
-fclean:
+Makefile nada bueno 
 
 .PHONY
