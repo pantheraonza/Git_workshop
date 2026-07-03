@@ -8,7 +8,7 @@ all:
 name:
 
 
-
+mejor makefile
 fclean:
 
 .PHONY
