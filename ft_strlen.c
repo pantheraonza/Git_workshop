@@ -12,7 +12,7 @@ d
 as
 dasd
 as
-asddas
+strlen buenoooooooooo
 d
 as
 d
@@ -27,8 +27,22 @@ as
 asddas
 d
 as
+
+
+
+
+int main(int argc, char const *argv[])
+{
+    /* code */
+    return 0;
+}
+
 d
 as
+
+
+
+
 dasd
 as
 asddas
@@ -38,3 +52,4 @@ d
 as
 dasd
 as
+asdasd
